@@ -1,5 +1,33 @@
 ## To-Do Application Challenge
 
+**Notes**: Jennifer Kral - 
+Hello! 
+Thanks for viewing my app for the Prep Network code challenge!
+
+Due to time constraints the following features were not added: 
+* Mobile Compatibility
+* Login/logout
+
+However, the following features can be tested:
+* Add, complete, edit, and delete tasks
+* Sign-up a new user
+
+Also featured in this app:
+* React interface
+* Material UI Components
+* Inline styling and styled components
+* Axios API calls
+
+
+Please let me know if you have questions!
+
+Jennifer
+
+
+Color scheme - https://coolors.co/ffcdb2-ffb4a2-e5989b-b5838d-6d6875
+
+
+
 **Design**: It is up to you, but it needs to work on both desktop and mobile.
 
 **Frontend**: Any Javascript framework, but we prefer React (https://github.com/JeanHules/react-boiler-plate).
@@ -26,3 +54,6 @@ You can make your application as simple or complex as you want. Do not overthink
 -   Create your application using a JS framework as your frontend
 -   Create an API using a PHP framework as your backend
 -   Once finished, create a pull request. Once you have done that, we will review your code.
+
+
+
